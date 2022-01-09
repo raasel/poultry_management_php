@@ -7,3 +7,7 @@
 4. Input Poultry Data
 
 Demo Video: https://youtu.be/MMjReL8wMhA
+
+![Dasgboard](./images/Screenshot%20(453).png)
+![Tables](./images/Screenshot%20(454).png)
+![Input](./images/Screenshot%20(455).png)
